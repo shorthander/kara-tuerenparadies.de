@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://kara-tuerenparadies.de/</loc>
+    <lastmod>2026-02-12</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://kara-tuerenparadies.de/turen/index.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kara-tuerenparadies.de/fenster/index.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kara-tuerenparadies.de/kontakt/index.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kara-tuerenparadies.de/impressum/index.html</loc>
+    <lastmod>2026-02-12</lastmod>
+    <priority>0.3</priority>
+  </url>
+</urlset>
